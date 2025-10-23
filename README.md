@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GITHub Exercises 
-- 🌱 I’m currently learning GITHub
+## 🔭 I’m currently working on GITHub Exercises 
+##🌱 I’m currently learning GITHub
 - 👯 I’m looking to collaborate on Dev
 - 🤔 I’m looking for help with learning
 - 💬 Ask me about ABAP
